@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "ir_datasets",
+  "versions": [
+    {
+      "commit": "76d107e3c1f9acf05875d263fcb206f94f7a356b",
+      "tag": "",
+      "parsed_at": "2026-11-07T21:55:50.931451+00:00"
+    }
+  ]
+}
