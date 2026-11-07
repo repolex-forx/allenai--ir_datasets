@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/ir_datasets/commit/76d107e3c1f9acf05875d263fcb206f94f7a356b",
       "git:hexsha": "76d107e3c1f9acf05875d263fcb206f94f7a356b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T21:55:50.930902+00:00"
     },
     {
       "@id": "https://repolex.ai/r/allenai/ir_datasets/commit/356442ea5357d8713ed2bef024f2dff34e0b2c70",
